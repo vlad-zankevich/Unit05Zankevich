@@ -7,7 +7,7 @@ public class Task03 {
         double b = 1322345;
 
 
-        double example = maxNumber(1.32234523, 132234);
+        double example = maxNumber(1.32234, 132234);
 
         System.out.println(example);
     }
@@ -32,5 +32,6 @@ public class Task03 {
         } else {
             return b;
         }
-   }
+    }
 }
+
